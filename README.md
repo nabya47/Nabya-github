@@ -1,3 +1,3 @@
-# Nabya-github
+# Website
 <br>
-Author - Nabya Naseem (hello world)
+Author - Nabya Naseem
